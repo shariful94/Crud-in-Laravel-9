@@ -9,7 +9,7 @@
 <div class="container">
 
 
-    <h1 class="text-center">welcome to Crud</h1>
+    <h1 class="text-center">Go to url & add Products after public for crud route</h1>
     @yield('content')
 </div>
     
